@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+main{
+    background-color: rgb(221, 220, 200);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+div{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+}
+
+.div1{
+    left: 0;
+    top: 0;
+}
+
+.div2{
+    left: 0;
+    bottom: 0;
+}
+
+.div3{
+    right: 0;
+    top: 0;
+
+}
+
+.div4{
+    right: 0;
+    bottom: 0;
+}
